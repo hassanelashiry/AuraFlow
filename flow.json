@@ -1,0 +1,11 @@
+{
+  "networks": {
+    "testnet": "access.testnet.nodes.onflow.org:9000"
+  },
+  "accounts": {
+    "my-testnet-account": {
+      "address": "f0c2d355bdd512fb",
+      "key": "f2937d30128370ec0333506c730ad6f7e1e4328d15a90498388fcfceba4eed13"
+    }
+  }
+}
